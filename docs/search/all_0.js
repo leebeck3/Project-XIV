@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['add_0',['add',['../main_8cpp.html#aa99823a0fc8313c9c32541ce768fb801',1,'main.cpp']]]
+  ['addedge_0',['addEdge',['../classAdjacencyMatrix.html#a8c63c2cf7f920bb8d2a574520927e4aa',1,'AdjacencyMatrix']]],
+  ['adjacencymatrix_1',['AdjacencyMatrix',['../classAdjacencyMatrix.html',1,'AdjacencyMatrix'],['../classAdjacencyMatrix.html#a19c8298cbc09e1e853a50e6ab030f2c9',1,'AdjacencyMatrix::AdjacencyMatrix()']]]
 ];
